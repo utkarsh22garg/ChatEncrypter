@@ -15,5 +15,7 @@ Just build the project and run the jar file created.Make sure you java JRE 8.0 i
 
 ## Screenshots
 ![Method Selector](https://github.com/utkarsh22garg/ChatEncrypter/blob/master/screenshots/Screenshot%201.png "Select Any Method")
+
 ![Chat GUI](https://github.com/utkarsh22garg/ChatEncrypter/blob/master/screenshots/Screenshot%202.png "Chat GUI")
+
 ![Client Options](https://github.com/utkarsh22garg/ChatEncrypter/blob/master/screenshots/Screenshot%203.png "Options For Client")
