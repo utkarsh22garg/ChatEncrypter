@@ -5,7 +5,11 @@ upto 10 __MB__ of size.
 
 ## Getting Started
 
-Just build the project and run the jar file created.Make sure you java JRE 8.0 installed in your system. After that you are ready to chit-chat.
+1. Download Source Files
+2. Downloading FlexiCoreProvider-1.7p7.signed.jar https://www.flexiprovider.de/download/FlexiCoreProvider-1.7p7.signed.jar
+3. Adding the .jar the Project Library
+4. Build or run
+5. Enjoy
 
 ## Types of Encryption Used
 
