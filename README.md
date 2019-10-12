@@ -13,9 +13,9 @@ upto 10 __MB__ of size.
 
 ## Types of Encryption Used
 
-* AES Symmetric Key Cipher(128-bit)
-* DES Symmetric Key Cipher(64-bit)
-* RSA Asymmetric Key Cipher
+* AES Symmetric Key Cipher(128-bit).
+* DES Symmetric Key Cipher(64-bit).
+* RSA Asymmetric Key Cipher.
 
 ## Screenshots
 ![Method Selector](https://github.com/utkarsh22garg/ChatEncrypter/blob/master/screenshots/Screenshot%201.png "Select Any Method")
