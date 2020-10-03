@@ -5,11 +5,11 @@ upto 10 __MB__ of size.
 
 ## Getting Started
 
-1. Download Source Files
-2. Download FlexiCoreProvider-1.7p7.signed.jar https://www.flexiprovider.de/download/FlexiCoreProvider-1.7p7.signed.jar
-3. Add the .jar in the Project Library
-4. Build or run
-5. Enjoy
+1. Download Source Files.
+2. Download FlexiCoreProvider-1.7p7.signed.jar https://www.flexiprovider.de/download/FlexiCoreProvider-1.7p7.signed.jar .
+3. Add the .jar in the Project Library.
+4. Build or run.
+5. Enjoy.
 
 ## Types of Encryption Used
 
